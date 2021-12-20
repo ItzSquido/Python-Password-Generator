@@ -4,4 +4,4 @@ This is my first little project
 
 # What can it do?
 
-This app can help you generate passwords for your accounts!
+This app can help you generate passwords!
