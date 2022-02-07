@@ -1,4 +1,4 @@
-# Python Password Generator (Made by ItzSquido)
+# Python Password Generator (Made by ChillDev)
 
 This is my first little project
 
